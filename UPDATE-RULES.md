@@ -51,4 +51,4 @@ Leave out programmes limited to other regions, research consortia, and programme
 5. Commit to `main` with a short Greek message that says what changed. Push to `main` directly. Do not open a pull request.
 6. Report to the owner only when something matters to him: a new programme worth promoting, a deadline within 10 days, or a source that could not be checked twice in a row. Otherwise stay silent.
 
-If a run cannot confirm anything (network trouble), change only nothing and do not update `checked`.
+If a run cannot confirm anything (network trouble), change nothing and do not update `checked`.
